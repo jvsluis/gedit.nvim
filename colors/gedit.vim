@@ -143,3 +143,7 @@ hi DiffAdd guifg=#ffffff guibg=#5f875f gui=NONE cterm=NONE
 hi DiffChange guifg=#ffffff guibg=#5f87af gui=NONE cterm=NONE
 hi DiffText guifg=#000000 guibg=#c6c6c6 gui=NONE cterm=NONE
 hi DiffDelete guifg=#ffffff guibg=#af5faf gui=NONE cterm=NONE
+
+hi GitSignsAdd guifg=#32CD32
+hi GitSignsChange guifg=Blue
+hi GitSignsDelete guifg=Red
